@@ -1,7 +1,7 @@
 # Algonive_AI_Chatbot
 # Algonive Python Programming Internship Task Two
 
-## Project Title
+## Project-
 AI Chatbot for Customer Support
 
 ## Project Description
@@ -32,3 +32,6 @@ In this project, I have explored the basics of Natural Language Processing (NLP)
 
 ## Statement of Originality
 This project is built as part of a learning process. I have focused on understanding the concepts of NLP and Python logic to create this chatbot. AI tools were used for guidance and understanding, but the final implementation and structure are my own work.
+
+## Interaction Style
+The chatbot is designed to follow traditional Indian values of respect and humility. It avoids standard machine-generated greetings and instead uses 'Namaste' and 'Om' to interact with the user. The response logic includes a slight delay and a character-by-character display to mimic the natural pace of a human conversation.
